@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Homework1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cube">Cube</string>
+    <string name="tetra">Tetra</string>
+    <string name="icosa">Icosa</string>
+    <string name="dodeca">Dodeca</string>
+    <string name="auto">Auto</string>
+    <string name="manual">Manual</string>
+
+</resources>

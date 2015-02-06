@@ -1,0 +1,2 @@
+This program displays 4 3D polyhedrons using OpenGL ES on Android. The 4 buttons at the top toggle between the objects,
+and the auto and manual buttons determine rotation type (automatic or touch controlled). Screenshots of each shape have been included.
